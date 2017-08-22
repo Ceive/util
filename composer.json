@@ -1,0 +1,13 @@
+{
+    "name": "lexus27/ceive.util",
+    "description": "lib helper for programm utils",
+    "type": "library",
+    "license": "Apache 2.0",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload" : {
+	  "psr-4": {
+		"Ceive\\Util\\": "src/"
+	  }
+	}
+}
