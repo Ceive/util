@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 17.10.2016
  * Time: 15:51
  */
-namespace Jungle\Util\PropContainer {
+namespace Ceive\Util\PropContainer {
 
 	/**
 	 * Interface PropContainerParamInterface
-	 * @package Jungle\Util
+	 * @package Ceive\Util
 	 */
 	interface PropContainerParamInterface{
 

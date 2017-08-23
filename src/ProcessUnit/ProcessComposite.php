@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 17.10.2016
  * Time: 17:43
  */
-namespace Jungle\Util\ProcessUnit {
+namespace Ceive\Util\ProcessUnit {
 
 	/**
 	 * Class ProcessComposite
-	 * @package Jungle\Util\ProcessUnit
+	 * @package Ceive\Util\ProcessUnit
 	 */
 	class ProcessComposite extends Process implements ProcessCollectorInterface{
 

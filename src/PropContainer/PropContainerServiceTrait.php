@@ -6,11 +6,11 @@
  * Time: 13:21
  */
 
-namespace Jungle\Util\PropContainer;
+namespace Ceive\Util\PropContainer;
 
 /**
  * Class PropContainerServiceTrait
- * @package Jungle\Basic\Collection
+ * @package Ceive\Basic\Collection
  * Трейт реализующий хранение инициализаторов объектов
  *
  */

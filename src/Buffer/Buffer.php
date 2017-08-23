@@ -2,17 +2,17 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 05.10.2016
  * Time: 13:22
  */
-namespace Jungle\Util\Buffer {
+namespace Ceive\Util\Buffer {
 
 
 	/**
 	 * Class Buffer
-	 * @package Jungle\Util\Buffer
+	 * @package Ceive\Util\Buffer
 	 */
 	class Buffer implements BufferInterface{
 

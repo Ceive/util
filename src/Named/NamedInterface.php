@@ -6,11 +6,11 @@
  * Time: 17:19
  */
 
-namespace Jungle\Util\Named {
+namespace Ceive\Util\Named {
 
 	/**
 	 * Interface INamedBase
-	 * @package Jungle\Basic
+	 * @package Ceive\Basic
 	 *
 	 * Базовый интерфейс для именованых объектов
 	 *

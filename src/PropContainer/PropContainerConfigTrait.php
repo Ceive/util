@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 15.10.2016
  * Time: 19:04
  */
-namespace Jungle\Util\PropContainer {
+namespace Ceive\Util\PropContainer {
 
 	/**
 	 * Class PropContainerConfigTrait
-	 * @package Jungle\Util
+	 * @package Ceive\Util
 	 */
 	trait PropContainerConfigTrait{
 

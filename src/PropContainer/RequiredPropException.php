@@ -2,18 +2,18 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 15.10.2016
  * Time: 18:57
  */
-namespace Jungle\Util\PropContainer {
+namespace Ceive\Util\PropContainer {
 
 	use Exception;
 
 	/**
 	 * Class RequiredPropException
-	 * @package Jungle\Util\Exception
+	 * @package Ceive\Util\Exception
 	 */
 	class RequiredPropException extends \Exception{
 

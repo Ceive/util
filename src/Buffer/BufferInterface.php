@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 05.10.2016
  * Time: 12:42
  */
-namespace Jungle\Util\Buffer {
+namespace Ceive\Util\Buffer {
 
 	/**
 	 * Interface BufferInterface
-	 * @package Jungle\Util\Communication\Hypertext
+	 * @package Ceive\Util\Communication\Hypertext
 	 */
 	interface BufferInterface{
 

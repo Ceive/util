@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 07.10.2016
  * Time: 1:03
  */
-namespace Jungle\Util\PropContainer {
+namespace Ceive\Util\PropContainer {
 
 	/**
 	 * Class PropContainerDefaultStateStaticTrait
-	 * @package Jungle\Util
+	 * @package Ceive\Util
 	 */
 	trait PropContainerDefaultStateStaticTrait{
 

@@ -2,16 +2,16 @@
 /**
  * Created by Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>.
  * Author: Kutuzov Alexey Konstantinovich <lexus.1995@mail.ru>
- * Project: jungle
+ * Project: Ceive
  * IDE: PhpStorm
  * Date: 25.04.2016
  * Time: 7:47
  */
-namespace Jungle\Util\Named {
+namespace Ceive\Util\Named {
 
 	/**
 	 * Interface NamedAlternatesInterface
-	 * @package Jungle\Basic
+	 * @package Ceive\Basic
 	 */
 	interface NamedAlternatesInterface extends NamedInterface{
 

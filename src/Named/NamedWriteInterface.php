@@ -5,11 +5,11 @@
  * Date: 19.11.2015
  * Time: 11:30
  */
-namespace Jungle\Util\Named {
+namespace Ceive\Util\Named {
 
 	/**
 	 * Interface NamedWriteInterface
-	 * @package Jungle\Basic
+	 * @package Ceive\Basic
 	 */
 	interface NamedWriteInterface{
 
